@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-textnodes"
+description = "Misc Text Nodes for Comfy UI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/akierson/ComfyUI-textnodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-textnodes"
+Icon = ""
