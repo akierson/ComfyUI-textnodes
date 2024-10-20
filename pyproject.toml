@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-colornodes"
+name = "comfyui-textnodes"
 description = "Misc Text Nodes for Comfy UI"
 version = "0.0.2"
 license = { file = "LICENSE.txt" }
@@ -11,4 +11,4 @@ Repository = "https://github.com/akierson/ComfyUI-textnodes"
 
 [tool.comfy]
 PublisherId = "akierson"
-DisplayName = "ComfyUI-TextSNodes"
+DisplayName = "ComfyUI-TextNodes"
